@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sotaro-Ichii
 - 👀 I’m interested in football
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning three.js
 - 📫 I prefer email to call
 
 <!---
